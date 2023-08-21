@@ -1,3 +1,2 @@
 # TankPVP
-My first project:
-Java two player game
+Multiplayer Tank game created with Java
